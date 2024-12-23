@@ -15,7 +15,7 @@ A passionate computer science student
 - **Packages & Frameworks**: React.js, Node.js
 - **Databases**: Firebase, SQL
 - **UI/UX Design**: Figma
-- **IDEs**: Microsoft Visual Studio, Android Studio
+- **IDEs**: Microsoft Visual Studio, Android Studio, IntelliJ IDEA
 - **Version Control**: Git, GitHub
 - **Graphic Design Tools**: Adobe Illustrator, Adobe Photoshop
 
