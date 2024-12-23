@@ -4,6 +4,7 @@ A passionate computer science student
 ![GithubCoverPhoto_Artboard 1](https://github.com/user-attachments/assets/06849135-ff61-4d10-8382-a416eda6fc4e)
 
 🔭 I’m currently studying about Computer Science in Universiti Sains Malaysia
+
 🌱 I’m currently majoring in Software Engineering
 
 ## 🛠️ Technologies and Tools
