@@ -22,6 +22,11 @@ A passionate computer science student
 
 - [MeowPuffyCafe](https://github.com/wuik1112/CAT201-G06-Assignment2) - A cat cafe website displaying the menu, available cats for adoption, ratings, and more.
 - [Hackathon2](https://github.com/wuik1112/CPT113-G5-Hackathon-2) - A text-based adventure game about a cat's loyalty to its owner, highlighting emotional decision-making and multiple endings.
+  
+## 🚧 Current Projects
+
+- **EventSphere@USM** - A revamped version of the MyCSD system for USM students, focusing on streamlining event management and improving student engagement. (Under development, details available upon request.)
+- **Cat-A-Home** - A mobile app using AI for stray cat recognition, integrating Google Maps API for adoption and location-based features. (Under development, details available upon request.)
 
 ## 📫 Connect with Me
 
