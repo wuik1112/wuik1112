@@ -7,6 +7,8 @@ A passionate computer science student
 
 🌱 I’m currently majoring in Software Engineering
 
+---
+
 ## 🛠️ Technologies and Tools
 
 - **Programming Languages**: JavaScript, Python, C++, Java
