@@ -16,6 +16,7 @@ A passionate computer science student
 - **Databases**: Firebase, SQL
 - **UI/UX Design**: Figma
 - **IDEs**: Microsoft Visual Studio, Android Studio
+- **Version Control**: Git, GitHub
 - **Graphic Design Tools**: Adobe Illustrator, Adobe Photoshop
 
 ## 🚀 Projects
