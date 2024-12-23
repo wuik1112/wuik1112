@@ -9,18 +9,19 @@ A passionate computer science student
 
 ## 🛠️ Technologies and Tools
 
-- JavaScript, Python, C++, Java
-- React.js, Node.js
-- Firebase, SQL
-- Figma
-- Adobe Illustrator, Adobe Photoshop
+- **Programming Languages**: JavaScript, Python, C++, Java
+- **Packages & Frameworks**: React.js, Node.js
+- **Databases**: Firebase, SQL
+- **UI/UX Design**: Figma
+- **IDEs**: Microsoft Visual Studio, Android Studio
+- **Graphic Design Tools**: Adobe Illustrator, Adobe Photoshop
 
 ## 🚀 Projects
 
-- [Project 1](https://github.com/johndoe/project1) - A web app that does XYZ.
-- [Project 2](https://github.com/johndoe/project2) - A mobile app that helps ABC.
+- [MeowPuffyCafe](https://github.com/wuik1112/CAT201-G06-Assignment2) - A cat cafe website displaying the menu, available cats for adoption, ratings, and more.
+- [Hackathon2](https://github.com/wuik1112/CPT113-G5-Hackathon-2) - A text-based adventure game about a cat's loyalty to its owner, highlighting emotional decision-making and multiple endings.
 
-## 📫 How to Reach Me
+## 📫 Connect with Me
 
 - Email: [khooiuwan@gmail.com](mailto:khooiuwan@gmail.com)
 - LinkedIn: [khoo-iu-wan](https://linkedin.com/in/khoo-iu-wan)
